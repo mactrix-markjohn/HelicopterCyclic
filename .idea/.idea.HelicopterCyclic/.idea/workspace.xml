@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ef09f01-b2ca-4b5d-ba99-922440953909" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliRotorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <marker date="1667548892551" expanded="true" signature="6:111" ph="..." />
+                <marker date="1667548892551" expanded="true" signature="161:584" ph="{...}" />
+                <marker date="1667548892551" expanded="true" signature="228:315" ph="{...}" />
+                <marker date="1667548892551" expanded="true" signature="397:582" ph="{...}" />
+                <marker date="1667548892551" expanded="true" signature="499:576" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AR Controller/ARController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2475">
+              <caret line="165" column="42" selection-start-line="165" selection-start-column="42" selection-end-line="165" selection-end-column="42" />
+              <folding>
+                <marker date="1667820292160" expanded="true" signature="6:203" ph="..." />
+                <marker date="1667820292160" expanded="true" signature="246:6303" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="814:934" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1005:1126" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1189:1290" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1335:2501" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1565:2486" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1661:2085" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1726:2071" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1813:1922" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="1947:2053" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="2163:2344" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="2358:2476" ph="/* if (Input.GetTouch(0).phase == TouchPhase.Ended) ... */" />
+                <marker date="1667820292160" expanded="true" signature="2538:3441" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="2568:2657" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="2910:3353" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="3366:3435" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="3494:4059" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="4127:4213" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="4242:4752" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="4790:5025" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="5062:5289" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="5321:5552" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="5586:5809" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="5839:6055" ph="{...}" />
+                <marker date="1667820292160" expanded="true" signature="6084:6301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1553437264000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553437264000" expanded="true" signature="130:479" ph="{...}" />
+                <marker date="1553437264000" expanded="true" signature="258:477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestJoystick.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <marker date="1667821470180" expanded="false" signature="6:100" ph="..." />
+                <marker date="1667821470180" expanded="true" signature="143:835" ph="{...}" />
+                <marker date="1667821470180" expanded="true" signature="331:352" ph="{...}" />
+                <marker date="1667821470180" expanded="true" signature="415:833" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/KeyboardHeliInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <marker date="1667745859752" expanded="false" signature="6:78" ph="..." />
+                <marker date="1667745859752" expanded="true" signature="126:1080" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="173:267" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="398:493" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="541:631" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="675:803" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="837:937" ph="{...}" />
+                <marker date="1667745859752" expanded="true" signature="1003:1077" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/TouchHeliInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+              <folding>
+                <marker date="1667746298821" expanded="false" signature="6:78" ph="..." />
+                <marker date="1667746298821" expanded="true" signature="123:785" ph="{...}" />
+                <marker date="1667746298821" expanded="true" signature="176:223" ph="{...}" />
+                <marker date="1667746298821" expanded="true" signature="361:402" ph="{...}" />
+                <marker date="1667746298821" expanded="true" signature="459:511" ph="{...}" />
+                <marker date="1667746298821" expanded="true" signature="542:634" ph="{...}" />
+                <marker date="1667746298821" expanded="true" signature="705:783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-193">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <folding>
+                <marker date="1667555531873" expanded="false" signature="6:97" ph="..." />
+                <marker date="1667555531873" expanded="true" signature="241:1878" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="583:628" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="665:989" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1034:1222" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1100:1216" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1256:1475" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1311:1469" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1508:1678" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1567:1672" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1720:1876" ph="{...}" />
+                <marker date="1667555531873" expanded="true" signature="1766:1870" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rigidbodies/HelicopterBaseRigidbodyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+              <folding>
+                <marker date="1667554642917" expanded="true" signature="6:78" ph="..." />
+                <marker date="1667554642917" expanded="true" signature="142:844" ph="{...}" />
+                <marker date="1667554642917" expanded="true" signature="382:434" ph="{...}" />
+                <marker date="1667554642917" expanded="true" signature="525:637" ph="{...}" />
+                <marker date="1667554642917" expanded="true" signature="700:777" ph="{...}" />
+                <marker date="1667554642917" expanded="true" signature="722:771" ph="{...}" />
+                <marker date="1667554642917" expanded="true" signature="821:842" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Characteristics/HelicopterCharacteristics.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-343">
+              <caret line="52" column="114" selection-start-line="52" selection-start-column="114" selection-end-line="52" selection-end-column="114" />
+              <folding>
+                <marker date="1667649268291" expanded="false" signature="6:78" ph="..." />
+                <marker date="1667649268291" expanded="true" signature="134:3586" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="767:834" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="918:1077" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="1143:1610" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="1678:2454" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="2522:2676" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="2712:3198" ph="{...}" />
+                <marker date="1667649268291" expanded="true" signature="3240:3584" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Unity Tutorials/Prototype 1 - Starter Files/Create with Code/Prototype 1/Assets/Challenge 1/Scripts/PlayerControllerX.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/TouchHeliInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/InputType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characteristics/HelicopterCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rigidbodies/HelicopterBaseRigidbodyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/KeyboardHeliInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FeatheredPlaneShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliRotorBlur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity Tutorials/Prototype 1 - Starter Files/Create with Code/Prototype 1/Assets/Challenge 1/Scripts/PlayerControllerX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/BaseRotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliTailRotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/IHeliRotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliRotorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliMainRotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Engines/HeliEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AR Controller/ARController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/BaseHeliInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity Tutorials/Prototype 1 - Starter Files/Create with Code/Prototype 1/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotors/IHeliRotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotors/BaseRotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotors/HeliRotorBlur.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Engines/HeliEngine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/HeliRotorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rigidbodies/HelicopterBaseRigidbodyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/HeliController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inputs/InputType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inputs/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inputs/BaseHeliInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotors/HeliTailRotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotors/HeliMainRotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FeatheredPlaneShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Characteristics/HelicopterCharacteristics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inputs/KeyboardHeliInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inputs/TouchHeliInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AR Controller/ARController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestJoystick.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="843" />
+    <option name="y" value="123" />
+    <option name="width" value="503" />
+    <option name="height" value="610" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="AR Controller" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Characteristics" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Controllers" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Engines" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Inputs" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Rigidbodies" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Rotors" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ef09f01-b2ca-4b5d-ba99-922440953909" name="Default Changelist" comment="" />
+      <created>1667475195804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667475195804</updated>
+      <workItem from="1667475207581" duration="41088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41088000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22373393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2494331" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="NuGet" order="11" />
+      <window_info anchor="bottom" id="Message" order="12" />
+      <window_info anchor="bottom" id="Find" order="13" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HeliController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/IHeliRotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1667480813442" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667480813442" expanded="true" signature="107:178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/InputType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1667558001908" expanded="true" signature="6:78" ph="..." />
+            <marker date="1667558001908" expanded="true" signature="102:124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliTailRotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1667559843074" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667559843074" expanded="true" signature="118:696" ph="{...}" />
+            <marker date="1667559843074" expanded="true" signature="247:694" ph="{...}" />
+            <marker date="1667559843074" expanded="true" signature="382:682" ph="/* if (LeftRotor &amp;&amp; RightRotor) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/InputController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <marker date="1667558002078" expanded="true" signature="6:111" ph="..." />
+            <marker date="1667558002078" expanded="true" signature="247:1598" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="541:591" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="617:831" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="864:1433" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="922:1427" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="1470:1596" ph="{...}" />
+            <marker date="1667558002078" expanded="true" signature="1526:1581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/FeatheredPlaneShader.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <marker date="1644993885000" expanded="true" signature="36:2415" ph="{...}" />
+            <marker date="1644993885000" expanded="true" signature="57:227" ph="{...}" />
+            <marker date="1644993885000" expanded="true" signature="246:2413" ph="{...}" />
+            <marker date="1644993885000" expanded="true" signature="411:2407" ph="{...}" />
+            <marker date="1644993885000" expanded="true" signature="434:2392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Engines/HeliEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+          <folding>
+            <marker date="1667490408283" expanded="true" signature="6:78" ph="..." />
+            <marker date="1667490408283" expanded="true" signature="119:1125" ph="{...}" />
+            <marker date="1667490408283" expanded="true" signature="377:420" ph="{...}" />
+            <marker date="1667490408283" expanded="true" signature="479:523" ph="{...}" />
+            <marker date="1667490408283" expanded="true" signature="587:634" ph="{...}" />
+            <marker date="1667490408283" expanded="true" signature="684:1123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/BaseHeliInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="84" column="47" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
+          <folding>
+            <marker date="1667558865689" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667558865689" expanded="true" signature="122:2865" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="478:565" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="594:679" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="711:810" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="844:938" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="971:1024" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1059:1114" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1141:1222" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1251:1336" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1399:1434" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1476:1703" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="1948:2058" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="2127:2213" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="2245:2502" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="2543:2680" ph="{...}" />
+            <marker date="1667558865689" expanded="true" signature="2723:2861" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/BaseRotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1667488725793" expanded="true" signature="6:78" ph="..." />
+            <marker date="1667488725793" expanded="true" signature="130:340" ph="{...}" />
+            <marker date="1667488725793" expanded="true" signature="317:338" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliRotorBlur.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding>
+            <marker date="1667489261464" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667489261464" expanded="true" signature="134:1435" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="474:547" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="620:1171" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="915:1004" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="1052:1102" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="1115:1164" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="1217:1433" ph="{...}" />
+            <marker date="1667489261464" expanded="true" signature="1268:1427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rotors/HeliMainRotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1667560191956" expanded="true" signature="6:78" ph="..." />
+            <marker date="1667560191956" expanded="true" signature="118:765" ph="{...}" />
+            <marker date="1667560191956" expanded="true" signature="241:763" ph="{...}" />
+            <marker date="1667560191956" expanded="true" signature="442:758" ph="/* if (LeftRotor &amp;&amp; RightRotor) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Unity Tutorials/Prototype 1 - Starter Files/Create with Code/Prototype 1/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Unity Tutorials/Prototype 1 - Starter Files/Create with Code/Prototype 1/Assets/Challenge 1/Scripts/PlayerControllerX.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rigidbodies/HelicopterBaseRigidbodyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1667554642917" expanded="true" signature="6:78" ph="..." />
+            <marker date="1667554642917" expanded="true" signature="142:844" ph="{...}" />
+            <marker date="1667554642917" expanded="true" signature="382:434" ph="{...}" />
+            <marker date="1667554642917" expanded="true" signature="525:637" ph="{...}" />
+            <marker date="1667554642917" expanded="true" signature="700:777" ph="{...}" />
+            <marker date="1667554642917" expanded="true" signature="722:771" ph="{...}" />
+            <marker date="1667554642917" expanded="true" signature="821:842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <marker date="1667555531873" expanded="false" signature="6:97" ph="..." />
+            <marker date="1667555531873" expanded="true" signature="241:1878" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="583:628" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="665:989" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1034:1222" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1100:1216" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1256:1475" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1311:1469" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1508:1678" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1567:1672" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1720:1876" ph="{...}" />
+            <marker date="1667555531873" expanded="true" signature="1766:1870" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/HeliRotorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1667548892551" expanded="true" signature="6:111" ph="..." />
+            <marker date="1667548892551" expanded="true" signature="161:584" ph="{...}" />
+            <marker date="1667548892551" expanded="true" signature="228:315" ph="{...}" />
+            <marker date="1667548892551" expanded="true" signature="397:582" ph="{...}" />
+            <marker date="1667548892551" expanded="true" signature="499:576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553437264000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553437264000" expanded="true" signature="130:479" ph="{...}" />
+            <marker date="1553437264000" expanded="true" signature="258:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/TouchHeliInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <marker date="1667746298821" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667746298821" expanded="true" signature="123:785" ph="{...}" />
+            <marker date="1667746298821" expanded="true" signature="176:223" ph="{...}" />
+            <marker date="1667746298821" expanded="true" signature="361:402" ph="{...}" />
+            <marker date="1667746298821" expanded="true" signature="459:511" ph="{...}" />
+            <marker date="1667746298821" expanded="true" signature="542:634" ph="{...}" />
+            <marker date="1667746298821" expanded="true" signature="705:783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inputs/KeyboardHeliInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <marker date="1667745859752" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667745859752" expanded="true" signature="126:1080" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="173:267" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="398:493" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="541:631" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="675:803" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="837:937" ph="{...}" />
+            <marker date="1667745859752" expanded="true" signature="1003:1077" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AR Controller/ARController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="165" column="42" selection-start-line="165" selection-start-column="42" selection-end-line="165" selection-end-column="42" />
+          <folding>
+            <marker date="1667820292160" expanded="true" signature="6:203" ph="..." />
+            <marker date="1667820292160" expanded="true" signature="246:6303" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="814:934" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1005:1126" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1189:1290" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1335:2501" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1565:2486" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1661:2085" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1726:2071" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1813:1922" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="1947:2053" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="2163:2344" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="2358:2476" ph="/* if (Input.GetTouch(0).phase == TouchPhase.Ended) ... */" />
+            <marker date="1667820292160" expanded="true" signature="2538:3441" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="2568:2657" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="2910:3353" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="3366:3435" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="3494:4059" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="4127:4213" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="4242:4752" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="4790:5025" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="5062:5289" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="5321:5552" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="5586:5809" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="5839:6055" ph="{...}" />
+            <marker date="1667820292160" expanded="true" signature="6084:6301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <marker date="1667821470180" expanded="false" signature="6:100" ph="..." />
+            <marker date="1667821470180" expanded="true" signature="143:835" ph="{...}" />
+            <marker date="1667821470180" expanded="true" signature="331:352" ph="{...}" />
+            <marker date="1667821470180" expanded="true" signature="415:833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Characteristics/HelicopterCharacteristics.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343">
+          <caret line="52" column="114" selection-start-line="52" selection-start-column="114" selection-end-line="52" selection-end-column="114" />
+          <folding>
+            <marker date="1667649268291" expanded="false" signature="6:78" ph="..." />
+            <marker date="1667649268291" expanded="true" signature="134:3586" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="767:834" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="918:1077" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="1143:1610" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="1678:2454" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="2522:2676" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="2712:3198" ph="{...}" />
+            <marker date="1667649268291" expanded="true" signature="3240:3584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
